@@ -1,3 +1,7 @@
+### Note: not all columns may be represented in the data
+And its in alpha order here, not the order in the data. Sorry
+
+
 | Column	|	Description |
 |-------|---------------------------|
 | acceptD	|	The date which the borrower accepted  the offer |
